@@ -1,0 +1,22 @@
+{
+  "name": "kfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey2311/kfc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey2311/kfc/issues"
+  },
+  "homepage": "https://github.com/Sergey2311/kfc#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
